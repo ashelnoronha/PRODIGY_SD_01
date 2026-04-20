@@ -1,4 +1,3 @@
-# PRODIGY_SD_01
 # Temperature Unit Converter in C
 
 This is a simple and efficient temperature unit converter written in C. The program accepts a temperature value and its unit (Celsius, Fahrenheit, or Kelvin), then converts it into the other two units.
